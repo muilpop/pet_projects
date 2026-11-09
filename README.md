@@ -1,2 +1,2 @@
 # pet_projects
- Personal data analytics portfolio projects
+ Проекты, которые я выполняю самостоятельно. Данные из открытых источников.
